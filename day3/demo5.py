@@ -1,7 +1,7 @@
 def greet(name, message="Good Morning"):
     print(message, name)
 
-# Function calls
+
 greet("Amar")
 greet("Sanju", "Hello")
 def student_info(name, age, course):
