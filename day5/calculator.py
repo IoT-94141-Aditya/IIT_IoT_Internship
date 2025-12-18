@@ -1,5 +1,3 @@
-# calculator.py
-
 # Take input from user
 a = float(input("Enter first number: "))
 b = float(input("Enter second number: "))
